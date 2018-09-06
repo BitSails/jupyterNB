@@ -10,3 +10,8 @@ Jupyter (iPython) Notebook
 
 + Images
 
+
+## Notebook displayed only
+
++ Cant be edited
+
